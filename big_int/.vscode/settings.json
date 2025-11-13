@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"atomic": "cpp",
+		"string": "cpp",
+		"ranges": "cpp"
+	}
+}
